@@ -5,5 +5,5 @@
 
 
 # Информация по тест-кейсам:
-- [TestCases_for_pwd](task2\TestCases_for_pwd.md) - Все тест кейсы расположены в данном файле.
+- [TestCases_for_pwd](TestCases_for_pwd.md) - Все тест кейсы расположены в данном файле.
 
